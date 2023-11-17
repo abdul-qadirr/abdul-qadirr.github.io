@@ -1,14 +1,27 @@
 ---
 permalink: /
-title: "from pixel to people"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- <a href="https://www.youtube.com/watch?v=5pBfi-buqo8" title="AskSME: Dr. Hannah Kerner - Artificial Intelligence Lead, Close-up with a NASA Subject Matter Expert"><img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/asksme.png" alt="AskSME: Dr. Hannah Kerner - Artificial Intelligence Lead" width=300 /></a> -->
+<img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/field-boundaries.png" width=400>
+I am currently an Assistant Professor in the School of Computing and Augmented Intelligence at Arizona State University. My research focuses on developing machine learning systems for real-world data and use cases. This includes remote sensing and spatial datasets, fairness (particularly w.r.t. geographic bias), scientific discovery and exploration, agriculture and food security, and other topics. I am the AI/Machine Learning Lead for [NASA Harvest](https://nasaharvest.org/) and [NASA Acres](https://www.nasaacres.org/) as well as Center Faculty for the ASU Center for Global Discovery and Conservation Science ([GDCS](https://gdcs.asu.edu/)). I was recognized on the [Forbes 30 Under 30](https://www.forbes.com/profile/hannah-kerner/?sh=66d9f317624f) list in Science in 2021. I also write and speak about challenges for developing AI/ML applications for real world problems, such as in [this recent article in MIT Technology Review](https://www.technologyreview.com/2020/08/18/1007196/ai-research-machine-learning-applications-problems-opinion/).
+
+<!-- ![Daily timelapse of PlanetScope images showing smallholder farms in Mali](http://hannah-rae.github.io/images/mali_l3h_small.gif)
+<br><sub><sup>Timelapse of PlanetScope images showing smallholder farms in Mali</sup></sub> -->
+
+<img style="float: left; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/msl-selfie.jpg" width=300>
+Prior to joining the faculty at ASU, I was an Assistant Research Professor at the University of Maryland, College Park. I did my Ph.D. at Arizona State University on machine learning methods (especially novelty detection) for planetary exploration missions. I received my B.S. in computer science from the University of North Carolina at Chapel Hill where I conducted research on 3D motion planning for autonomous agents. I have worked at NASA's Jet Propulsion Laboratory, Goddard Space Flight Center, and Langley Research Center, as well as the commercial remote sensing company Planet, Inc. I am passionate about advancing opportunities for people who have traditionally been underrepresented in or excluded from computer science and devote much of my time outside of research to these efforts.
+
+<!-- ![Mars Science Lab "Curiosity" selfie at Bagnold Dune Field, Mars. Credit: NASA/JPL](http://hannah-rae.github.io/images/msl-selfie.jpg)
+<br><sub><sup>Mars Science Lab "Curiosity" selfie at Bagnold Dune Field, Mars. Credit: NASA/JPL</sup></sub> -->
+
+You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
 A data-driven personal website
 ======
