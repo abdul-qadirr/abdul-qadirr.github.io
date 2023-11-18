@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/field-boundaries.png" width=400>
-I am a Geospatial Data Scientist and Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow. I utilize statistical and machine learning-based methods to extract insights from remote sensing data. I construct pipelines that deliver metrics from Synthetic Aperture Radar (SAR) and other satellite imagery. Additionally, I utilize causal inference to assess the impact of climate and human-induced changes on agriculture and natural resources. I have proposed as well as managed five successful research grants/projects, serving as PI or Co-PI involving geospatial analysis. My objective is to assist decision-makers and the scientific community in formulating informed policies pertaining to natural resource management particularly for vulnerable communities affected by climate change and related food security concerns. I am capable of working independently or as a part of a team, depending on the requirements of the project
+I am a Geospatial Data Scientist and Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow. I utilize statistical and machine learning-based methods to extract insights from remote sensing data. I construct pipelines that deliver metrics from Synthetic Aperture Radar (SAR) and other satellite imagery. Additionally, I utilize causal inference to assess the impact of climate and human-induced changes on agriculture and natural resources. My objective is to assist decision-makers and the scientific community in formulating informed policies pertaining to natural resource management particularly for vulnerable communities affected by climate change and related food security concerns.
+
+I completed my Phd in Geospatial Sciences in October 2023 from Department of Geographical Sciences, University of Maryland-College Park. I will be working with NASA HARVEST as Synthetic Aperture Radar (SAR) specialist for agriculture monitoring from December, 2023.
+
+I have proposed as well as managed five successful research grants/projects, serving as PI or Co-PI involving geospatial analysis.  I am capable of working independently or as a part of a team, depending on the requirements of the project
 
 <!-- ![Daily timelapse of PlanetScope images showing smallholder farms in Mali](http://hannah-rae.github.io/images/mali_l3h_small.gif)
 <br><sub><sup>Timelapse of PlanetScope images showing smallholder farms in Mali</sup></sub> -->
