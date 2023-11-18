@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{(https://scholar.google.com/citations?user=5OG7eicAAAAJ&hl=en)}}"> Google Scholar profile</a>.</u>
 
 
 1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. To appear in *Neural Information Processing Systems (NeurIPS), Climate Change AI Workshop*.
