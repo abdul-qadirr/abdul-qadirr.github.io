@@ -4,9 +4,17 @@ title: "Stock market investing"
 author_profile: true
 ---
 
-Other than geospatial remote sensing, I am very much passionate about investing and consider it to be my *Ikigai*. During my Phd, I read lots of investing books and it helped me to refresh and cope better with the Phd stress. I strongly believe that there is a connection between Phd research and investing and if you are good researcher then you can be a good investor too. I recommend youngsters to make a habit of investing to have another source of income to create long term wealth and to achieve financial freedom.
+Other than geospatial remote sensing, I am very much passionate about investing and consider it to be my *Ikigai*. During my Phd, I read lots of investing books which also helped me to refresh and cope better with the Phd stress. I strongly believe that there is a connection between Phd research and investing and if you are good researcher then you can be a good investor too. I recommend youngsters to make a habit of investing to have another source of income to create long term wealth and to achieve financial freedom.
 
 Here are some of the books which I have complied for anyone who are looking to learn more about investing in stocks.
+
+Research vs Investing similarity
+
+Both spend considerable amount of time conducting research on the Phd topic, on companies
+Both predict the future, research formulate their own hypothesis, investor predict the companies future earnings
+
+
+
 
 
 
