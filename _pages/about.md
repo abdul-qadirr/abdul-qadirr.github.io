@@ -31,5 +31,6 @@ News and Updates
 - Nov 2023: Arrell Global Food Innovation Research Award awarded to NASA HARVEST by Arrell Food Institute at the University of Guelph.
 - Oct 2023: Successfully defended my Phd thesis.
 - Sep 2023: Presented my paper poster during the FRINGE-2023 conference at University of Leeds, United Kingdom.
+- Jul 2023: Research on sunflower phenology featured on NASA HARVEST newsletter and website (Link).
 - Jun 2023: Paper on sunflower phenology published in Remote Sensing of Environment journal.
 
