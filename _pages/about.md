@@ -14,14 +14,6 @@ I am a Geospatial Data Scientist and Future Investigators in NASA Earth and Spac
 I completed my Phd in Geographical Sciences in October 2023 from Department of Geographical Sciences, University of Maryland-College Park. My Phd thesis was on
 "SAR based spatial modelling and generalization approach for crop monitoring in data sparse regions of the world". During PhD, I developed a physics-guided Machine Learning (ML) based model for sunflower crop mapping and generalization in Ukraine and Russia. Based on this model, I assessed and quantified the impact of Russian aggression on sunflower crop in Ukraine.
 
-Previously, I completed my MS in Geospatial Data Science from University of Delaware in 2020.
-
-I received my BTech in Physical Sciences from the Indian Institute of Space Science and Technology (IIST), Thiruvananthapuram,Kerala, India. 
-University of North Carolina at Chapel Hill where I conducted research on 3D motion planning for autonomous agents. I have worked at NASA's Jet Propulsion Laboratory, Goddard Space Flight Center, and Langley Research Center, as well as the commercial remote sensing company Planet, Inc. I am passionate about advancing opportunities for people who have traditionally been underrepresented in or excluded from computer science and devote much of my time outside of research to these efforts.
-
-<!-- ![Mars Science Lab "Curiosity" selfie at Bagnold Dune Field, Mars. Credit: NASA/JPL](http://hannah-rae.github.io/images/msl-selfie.jpg)
-<br><sub><sup>Mars Science Lab "Curiosity" selfie at Bagnold Dune Field, Mars. Credit: NASA/JPL</sup></sub> -->
-
 You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
 Achievements and Awards
