@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<img style="float: right; padding: 10px 10px 10px 10px;" src="http://hannah-rae.github.io/images/field-boundaries.png" width=400>
+<img style="float: right; padding: 10px 10px 10px 10px;" src="https://github.com/abdul-qadirr/abdul-qadirr.github.io/blob/master/images/sunflower_fields%20mapped%20in%20Hungary%20for%202018.jpg" width=400>
+
 I am a Geospatial Data Scientist and Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow. I utilize statistical and machine learning-based methods to extract insights from remote sensing data. I construct pipelines that deliver metrics from Synthetic Aperture Radar (SAR) and other satellite imagery. Additionally, I utilize causal inference to assess the impact of climate and human-induced changes on agriculture and natural resources. My objective is to assist decision-makers and the scientific community in formulating informed policies pertaining to natural resource management particularly for vulnerable communities affected by climate change and related food security concerns.
 
 I completed my Phd in Geospatial Sciences in October 2023 from Department of Geographical Sciences, University of Maryland-College Park. I will be working with NASA HARVEST as Synthetic Aperture Radar (SAR) specialist for agriculture monitoring from December, 2023.
