@@ -13,7 +13,19 @@ You can also find my articles on <u><a href="http://scholar.google.com/citations
 
 1. **Qadir, A.**, Skakun, S., Eun, J., Kussul, N., Shelestov, A., Becker-Reshef., 2023. A generalized model for mapping sunflower areas using Sentinel-1/SAR data. (submitted to *Remote Sensing of Environment*)
   
-1. **Qadir, A.**, Skakun, S., Eun, J., Prashnani, M., Shumilo, L., 2023. Sentinel-1 time series data for sunflower (Helianthus annuus) phenology monitoring. *Remote Sensing of Environment* 295, 113689. [Link](https://doi.org/10.1016/J.RSE.2023.113689).
+1. **Qadir, A.**, Skakun, S., Eun, J., Prashnani, M., Shumilo, L., 2023. Sentinel-1 time series data for sunflower (Helianthus annuus) phenology monitoring. *Remote Sensing of Environment* 295, 113689. [Link](https://doi.org/10.1016/J.RSE.2023.113689)
+
+1. Mondal, P., Dutta, T., **Qadir, A.**, Sharma, S. 2022. Radar and optical remote sensing for near-real time assessments of cyclone impacts on coastal ecosystems. *Remote Sensing in Ecology and Conservation*. [Link](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.257)
+
+1. *Qadir, A.*; and Mondal, P. Synergistic Use of Radar and Optical Satellite Data for Improved Monsoon Cropland Mapping in India. *Remote Sensing*. 2020, vol. 12, p. 522. [Link](https://www.mdpi.com/2072-4292/12/3/522)
+
+1. Mondal, P.; McDermid, S.S.; **Qadir, A.** A reporting framework for Sustainable Development Goal 15: Multi-scale monitoring of forest degradation using MODIS, Landsat and Sentinel data. *Remote Sensing of Environment*. 2020, vol.237, 111592. [Link](https://www.sciencedirect.com/science/article/pii/S0034425719306121)
+  
+1. B.K. Handique, Abdul Qadir, et al. “Crop discrimination using multispectral sensor onboard UAV”, “Special Issue on Remote Sensing”, Journal of National Academy of Sciences India, November, 2017. (Springer)
+Link: https://link.springer.com/article/10.1007/s40010-017-0443-9
+	B. K. Handique, Abdul Qadir, et al., "Rapid assessment of boro paddy infestation by brown plant hopper in Morigaon district, Assam, India using unmanned aerial vehicle", Current Science, Vol. 111, No. 10, 25 November 2016.
+Link: https://www.currentscience.ac.in/Volumes/111/10/1604.pdf
+
 
 1. 🆕 Tseng, G., Zvonkov, I., Purohit, M., Rolnick, D., and **Kerner, H.** (2023). Lightweight, Pre-trained Transformers for Remote Sensing Timeseries. arXiv preprint, [link](https://arxiv.org/abs/2304.14065).
 
@@ -77,32 +89,3 @@ You can also find my articles on <u><a href="http://scholar.google.com/citations
 
 17. **Kerner, H. R.**, Nakalembe, C., Becker-Reshef, I. (2020). Field-Level Crop Type Classification with k-Nearest Neighbors: A Baseline for a New Kenya Smallholder Dataset. *Proceedings of the International Conference on Learning Representations (ICLR) Workshops*, [link](https://arxiv.org/abs/2004.03023).
 
-18. **Kerner, H. R.**, Hardgrove, C., Czarnecki, S., Gabriel, T. S. J., Mitrofanov, I., Litvak, M., Sanin, A., Lisov, D. (2020). Analysis of Active Neutron Measurements from the Mars Science Laboratory Dynamic Albedo of Neutrons Instrument: Intrinsic Variability, Outliers, and Implications for Future Investigations. *Journal of Geophysical Research: Planets, 125(5)*, e2019JE006264, [link](https://doi.org/10.1029/2019JE006264).
-
-19. **Kerner, H. R.**, Wagstaff, K. L., Bue, B. D., Gray, P., Bell III, J. F., Ben Amor, H (2019). Deep Learning Methods Toward Generalized Change Detection on Planetary Surfaces. *Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 12(10)*, pp. 3900-3918, [link](https://doi.org/10.1109/JSTARS.2019.2936771).
-
-20. **Kerner, H. R.**, Wellington, D. F., Wagstaff, K. L., Bell III, J. F., Kwan, C., Ben Amor, H. (2019). Novelty Detection for Multispectral Images with Application to Planetary Exploration. *Proceedings of the AAAI Conference on Artificial Intelligence*, pp. 9484-9491, [link](https://doi.org/10.1609/aaai.v33i01.33019484).
-
-21. **Kerner, H. R.**, Ben Amor, H., Bell III, J. F. (2018). Context-Dependent Image Quality Assessment of JPEG-Compressed Mars Science Laboratory Mastcam Images using Convolutional Neural Networks. *Computers and Geosciences, 118*, pp. 109-121, [link](https://doi.org/10.1016/j.cageo.2018.06.001).
-
-22. Kwan, C., Chou, B., Kwan, L., Larkin, J., Ayhan, B., Bell III, J. F., **Kerner, H. R.** (2017). Demosaicing Enhancement using Pixel-Level Fusion. *Signal, Image and Video Processing, 12(4)*, pp. 749-756, [link](https://doi.org/10.1007/s11760-017-1216-2).
-
-
-
-<!-- ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
