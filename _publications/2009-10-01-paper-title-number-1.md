@@ -1,3 +1,5 @@
+You can also find my articles on my Google Scholar profile.
+
 ---
 title: "Paper Title Number 1"
 collection: publications
