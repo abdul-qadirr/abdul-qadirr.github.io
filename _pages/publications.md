@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="http://scholar.google.com/citations?user=5OG7eicAAAAJ&hl=en"> Google Scholar profile</a>.
+You can also find my articles on <a href="http://scholar.google.com/citations?user=5OG7eicAAAAJ&hl=en"> Google Scholar profile</a>.
 
 
 1. Becker-Reshef, I., Skakun, S., Wagner, J., Nair, S., Sadeh, Y., **Qadir, A.**, et al., 2023. War and Wheat: The Surprising Harvest in Ukraine as Seen from Space. (submitted to *Nature*)
