@@ -32,7 +32,4 @@ News and Updates
 - Oct 2023: Successfully defended my Phd thesis.
 - Sep 2023: Presented my paper poster during the FRINGE-2023 conference at University of Leeds, United Kingdom.
 - Jun 2023: Paper on sunflower phenology published in Remote Sensing of Environment journal.
-  
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
