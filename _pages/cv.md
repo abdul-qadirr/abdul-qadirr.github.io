@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Geographical Sciences, University of Maryland, College Park, USA 2023
+* M.S. in Data Science, University of Delaware, USA 2020
+* B.S. in Physical Sciences, Indian Institute of Space Science and Technology (IIST), India 2012
+
 
 Work experience
 ======
