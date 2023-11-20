@@ -13,8 +13,11 @@ Research vs Investing similarity
 Both spend considerable amount of time conducting research on the Phd topic, on companies
 Both predict the future, research formulate their own hypothesis, investor predict the companies future earnings
 
+By the way, I can’t say I am an expert even in
+investing; I can admit only to being a passionate practitioner.
 
-
+The third group who may find this book interesting is science buffs
+Most people of science avoid thinking about money like the plague, but the
 
 
 
