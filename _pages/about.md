@@ -16,7 +16,7 @@ I completed my Phd in Geographical Sciences in October 2023 from Department of G
 
 You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
-Outside of research, I very much enjoy investing and consider it to be my [Ikigai](https://en.wikipedia.org/wiki/Ikigai). You can find more details [here](https://abdul-qadirr.github.io/resources/).
+Outside of research, I very much enjoy investing and consider it to be my [IKIGAI](https://en.wikipedia.org/wiki/Ikigai). You can find more details [here](https://abdul-qadirr.github.io/resources/).
 
 Achievements and Awards
 ======
