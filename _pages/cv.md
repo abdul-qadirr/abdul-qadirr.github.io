@@ -18,15 +18,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* September 2020 to Present: Graduate Research Assistant
+  * University of Maryland, College Park
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: [Dr. Sergii Skakun](https://geog.umd.edu/facultyprofile/skakun/sergii)
 
-* Fall 2015: Research Assistant
-  * Github University
+* June 2020 to August 2020: Software Development Intern
+  * [ESRI](https://www.esri.com/en-us/home)
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: [Jie Zhang](https://www.linkedin.com/in/esrijiezhang/)
+
+* September 2018 to May 2020: Graduate Research Assistant
+  * University of Delaware, Newark
+  * Duties included: Tagging issues
+  * Supervisor: [Dr. Pinki Mondal](https://www.udel.edu/academics/colleges/ceoe/departments/gss/faculty/pinki-mondal/)
   
 Skills
 ======
