@@ -12,7 +12,7 @@ redirect_from:
 I am a Geospatial Data Scientist and Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow. I work with NASA HARVEST as Synthetic Aperture Radar (SAR) specialist for agriculture monitoring. I utilize statistical and machine learning-based methods to extract insights from remote sensing data. Additionally, I utilize causal inference to assess the impact of climate and human-induced changes on agriculture and natural resources. My objective is to assist decision-makers and the scientific community in formulating informed policies pertaining to natural resources and food security concerns.
 
 I completed my Phd in Geographical Sciences in October 2023 from [Department of Geographical Sciences, University of Maryland-College Park](https://geog.umd.edu/). My Phd thesis was on
-"SAR based spatial modelling and generalization for crop monitoring in data sparse regions of the world". During PhD, I developed a physics-guided Machine Learning (ML) based model for sunflower crop mapping and quantified the impact of Russian aggression on sunflower crop in Ukraine.
+"SAR based spatial modelling and generalization for crop monitoring". During the PhD, I developed a physics-guided Machine Learning (ML) based model for sunflower crop mapping and quantified the impact of Russian aggression on sunflower crop in Ukraine.
 
 You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
