@@ -32,6 +32,7 @@ Work experience
   * [University of Delaware, Newark](https://www.udel.edu/academics/colleges/ceoe/departments/gss/)
   * Duties included: Tagging issues
   * Supervisor: [Dr. Pinki Mondal](https://www.udel.edu/academics/colleges/ceoe/departments/gss/faculty/pinki-mondal/)
+
   
 Skills
 ======
@@ -42,24 +43,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
