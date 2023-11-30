@@ -16,6 +16,8 @@ I completed my Phd in Geographical Sciences in October 2023 from Department of G
 
 You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
+Outside of research, I very much enjoy investing and consider it to be my Ikigai. You can find more details here.
+
 Achievements and Awards
 ======
 - Arrell Global Food Innovation Award-2023 (NASA Harvest team member)
