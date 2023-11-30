@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 <img style="float: right; padding: 10px 10px 10px 10px;" src="https://abdul-qadirr.github.io/images/sunflower_fields%20mapped%20in%20Hungary%20for%202018.png" width=350>
-I am a Geospatial Data Scientist and Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow. I will be working with NASA HARVEST as Synthetic Aperture Radar (SAR) specialist for agriculture monitoring from December, 2023. I utilize statistical and machine learning-based methods to extract insights from remote sensing data. I construct pipelines that deliver metrics from Synthetic Aperture Radar (SAR) and other satellite imagery. Additionally, I utilize causal inference to assess the impact of climate and human-induced changes on agriculture and natural resources. My objective is to assist decision-makers and the scientific community in formulating informed policies pertaining to natural resources and food security concerns.
+I am a Geospatial Data Scientist and Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow. I work with NASA HARVEST as Synthetic Aperture Radar (SAR) specialist for agriculture monitoring. I utilize statistical and machine learning-based methods to extract insights from remote sensing data. Additionally, I utilize causal inference to assess the impact of climate and human-induced changes on agriculture and natural resources. My objective is to assist decision-makers and the scientific community in formulating informed policies pertaining to natural resources and food security concerns.
 
-I completed my Phd in Geographical Sciences in October 2023 from Department of Geographical Sciences, University of Maryland-College Park. My Phd thesis was on
-"SAR based spatial modelling and generalization approach for crop monitoring in data sparse regions of the world". During PhD, I developed a physics-guided Machine Learning (ML) based model for sunflower crop mapping and generalization in Ukraine and Russia. Based on this model, I assessed and quantified the impact of Russian aggression on sunflower crop in Ukraine.
+I completed my Phd in Geographical Sciences in October 2023 from [Department of Geographical Sciences, University of Maryland-College Park](https://geog.umd.edu/). My Phd thesis was on
+"SAR based spatial modelling and generalization for crop monitoring in data sparse regions of the world". During PhD, I developed a physics-guided Machine Learning (ML) based model for sunflower crop mapping and quantified the impact of Russian aggression on sunflower crop in Ukraine.
 
 You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
 
-Outside of research, I very much enjoy investing and consider it to be my [IKIGAI](https://en.wikipedia.org/wiki/Ikigai). You can find more details [here](https://abdul-qadirr.github.io/resources/).
+Outside of research, I very much enjoy investing and educate others. I consider it to be my [Ikigai](https://en.wikipedia.org/wiki/Ikigai). You can find more details [here](https://abdul-qadirr.github.io/resources/).
 
 Achievements and Awards
 ======
