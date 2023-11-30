@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in [Geographical Sciences, University of Maryland, College Park, USA](https://geog.umd.edu/)
 * M.S. in Data Science, University of Delaware, USA (also affiliated to [Dept. of Geography and Spatial Sciences](https://www.udel.edu/academics/colleges/ceoe/departments/gss/))
-* B.S. in Physical Sciences, Indian Institute of Space Science and Technology (IIST), India
+* B.S. in Physical Sciences, [Indian Institute of Space Science and Technology (IIST)](https://www.iist.ac.in/), India
 
 
 Work experience
