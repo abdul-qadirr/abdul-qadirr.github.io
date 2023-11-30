@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * September 2020 to Present: Graduate Research Assistant
-  * [University of Maryland, College Park]((https://geog.umd.edu/)
+  * [University of Maryland](https://geog.umd.edu/)
   * Duties included: Tagging issues
   * Supervisor: [Dr. Sergii Skakun](https://geog.umd.edu/facultyprofile/skakun/sergii)
 
@@ -29,7 +29,7 @@ Work experience
   * Supervisor: [Jie Zhang](https://www.linkedin.com/in/esrijiezhang/)
 
 * September 2018 to May 2020: Graduate Research Assistant
-  * [University of Delaware, Newark](https://www.udel.edu/academics/colleges/ceoe/departments/gss/)
+  * [University of Delaware](https://www.udel.edu/academics/colleges/ceoe/departments/gss/)
   * Duties included: Tagging issues
   * Supervisor: [Dr. Pinki Mondal](https://www.udel.edu/academics/colleges/ceoe/departments/gss/faculty/pinki-mondal/)
 
