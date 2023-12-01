@@ -1,5 +1,5 @@
 ---
-permalink: /resources/
+permalink: /interests/
 title: "Stock market investing"
 author_profile: true
 ---
