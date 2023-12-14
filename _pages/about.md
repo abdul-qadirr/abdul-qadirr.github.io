@@ -14,7 +14,7 @@ I am a Geospatial Data Scientist and Future Investigators in NASA Earth and Spac
 I completed my Phd in Geographical Sciences in October 2023 from [Department of Geographical Sciences, University of Maryland-College Park](https://geog.umd.edu/). My Phd thesis was on
 "SAR based spatial modelling and generalization for crop monitoring". During the PhD, I developed a physics-guided Machine Learning (ML) based model for sunflower crop mapping and quantified the impact of Russian aggression on sunflower crop in Ukraine.
 
-You can download my CV [here](http://hannah-rae.github.io/files/Kerner_Hannah_CV.pdf).
+You can download my CV [here](http://hannah-rae.github.io/files/Abdul_Qadir_CV.pdf).
 
 Outside of research, I very much enjoy investing and educate others. I consider it to be my [Ikigai](https://en.wikipedia.org/wiki/Ikigai). You can find more details [here](https://abdul-qadirr.github.io/resources/).
 
